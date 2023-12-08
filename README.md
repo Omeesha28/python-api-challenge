@@ -19,27 +19,34 @@ Based on the linear regression plot for both Northern and Southern Hemisphere, w
 ## Screenshots
 I have uploaded the screenshots for the output for all the scatter plots and linear regression plots for WeatherPY and I have included two screenshots from VactionPY for the map. 
 
-Scatterplot: Latitude vs. Temperature
+### Scatterplot: Latitude vs. Temperature
 
 ![output](Fig1.png)
 
-Scatterplot: Latitude vs. Humidity
+### Scatterplot: Latitude vs. Humidity
 
 ![output](Fig2.png)
 
-Scatterplot: Latitude vs. Cloudiness
+### Scatterplot: Latitude vs. Cloudiness
 
 ![output](Fig3.png)
 
-Scatterplot: Latitude vs. Wind Speed
+### Scatterplot: Latitude vs. Wind Speed
 
 ![output](Fig4.png)
 
-Temperature vs. Latitude Linear Regression Plot
+### Temperature vs. Latitude Linear Regression Plot
 
-Northern Hemisphere
+#### Northern Hemisphere
 ![output](Fig5.png)
 
-Southern Hemisphere
+#### Southern Hemisphere
 ![output](Fig6.png)
 
+### Temperature vs. Humidity Linear Regression Plot
+
+#### Northern Hemisphere
+![output](Fig7.png)
+
+#### Southern Hemisphere
+![output](Fig8.png)
