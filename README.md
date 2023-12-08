@@ -77,3 +77,9 @@ I have uploaded the screenshots for the output for all the scatter plots and lin
 #### Southern Hemisphere
 ![output](Fig12.png)
 
+### Map that displays a point for every city in the `city_data_df` DataFrame. The size of the point should be the humidity in each city.
+![output](Fig13.png)
+
+### Map that displays, cities in ‘ideal weather temp’ and hotels located within 10000 meters.  
+![output](Fig14.png)
+
